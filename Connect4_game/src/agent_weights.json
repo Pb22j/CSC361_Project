@@ -1,0 +1,20 @@
+{
+  "three": 396.48852125001264,
+  "two": 19.898152163340374,
+  "twoOpen": 25.0,
+  "onePotential": 3.0,
+  "oppThree": -122.62436534889986,
+  "oppTwo": -20.214210645877756,
+  "oppTwoOpen": -35.0,
+  "center": 16.86088324009622,
+  "centerAdjacent": 3.04235364,
+  "bottomRow": 4.070165569599999,
+  "heightPenalty": -2.0169414559999996,
+  "doubleThreat": 81.12943039999998,
+  "blockedThree": -10.0,
+  "trapSetup": 40.0, 
+  "mobility": 2.512979268738994,
+  "threatCount": 15.0,
+  "oppThreatCount": -20.0,
+  "edgePenalty": -1.01411788
+}
